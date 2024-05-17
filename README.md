@@ -1,0 +1,2 @@
+# Sentiment-Analysis-of-Restaurant-Reviews-EDA-Visualization-and-Comparing-Naive-Bayes-and-SVM-Models
+This repository covers the sentiment analysis of restaurant reviews, including Exploratory Data Analysis (EDA), data visualization, and model comparison. It demonstrates the preprocessing steps, the application of Naive Bayes and Support Vector Machines (SVM) models, and evaluates their performance to determine the best approach.
